@@ -11,3 +11,5 @@ pip install PTable
 # note if using Python 3 you might have to run it like so:
 pip3 install PTable
 ```
+# on windows:
+python -m pip install prettytable --proxy=myproxy:80
